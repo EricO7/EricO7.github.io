@@ -23,14 +23,31 @@ a {
     color: red;
     font-size: 30;
 }
-[button] {
+.button {
     background-color: blue;
     border: solid greenyellow;
     border-radius: 5px;
     padding: 5px;
 }
-[buttonhover] {
+.button:hover {
     background-color: aqua;
     color: white;
     cursor: pointer;
 }
+
+body {
+    padding: 120px;
+    border: 30px solid red;
+    min-width: 50%;
+}
+div.news {
+width: 200px;
+height: 65px;
+background-color: beige;
+overflow: scroll;
+position: absolute;
+margin-left: 50%;
+}
+
+
+
