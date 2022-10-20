@@ -1,9 +1,9 @@
 body {
  background-color: violet;
  padding: 120px;
-    border: 10px solid red;
-    min-width: 50%;
-    box-sizing: border-box
+ border: 10px solid red;
+ min-width: 50%;
+ box-sizing: border-box;
 }
 
 [lang="en"]{
