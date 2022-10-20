@@ -37,7 +37,7 @@ a {
 
 body {
     padding: 120px;
-    border: 30px solid red;
+    border: 10px solid red;
     min-width: 50%;
 }
 div.news {
